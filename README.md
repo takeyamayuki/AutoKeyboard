@@ -1,7 +1,7 @@
 # AutoKeyboard
 Arduino program that you can enter some word by pressing only one button
 
-この資料はelchikaに投稿したものをそのまま引用したものです。
+この資料はelchikaに投稿したものをそのまま引用したものです。https://elchika.com/article/0240f669-080a-46d0-baa3-6f69838c2b27/
 
 # はじめに
 
