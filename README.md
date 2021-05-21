@@ -1,6 +1,8 @@
 # AutoKeyboard
 Arduino program that you can enter some word by pressing only one button
 
+この資料はelchikaに投稿したものをそのまま引用したものです。
+
 # はじめに
 
 まずはこちらをご覧ください。
@@ -19,12 +21,12 @@ Arduino program that you can enter some word by pressing only one button
 
 |  部品  | おすすめ購入先  |
 |:---:|:--- |
-|  Pro micro  |  https://bit.ly/3dPzUx8 (amazon) | 
-|  ピンソケット  |  https://bit.ly/3bJDKW3 (秋月)| 
-|  タクトスイッチ(×3) |  https://bit.ly/2P6f6an (秋月)| 
-|  10kΩ抵抗(×3)  |  https://bit.ly/3dQxJJH (秋月)| 
-|  基板（切れ端でもいい）  |  https://bit.ly/3bHBlep (秋月) | 
-|  microUSBケーブル  |   | 
+|  Pro micro  |  https://bit.ly/3dPzUx8 (amazon) |
+|  ピンソケット  |  https://bit.ly/3bJDKW3 (秋月)|
+|  タクトスイッチ(×3) |  https://bit.ly/2P6f6an (秋月)|
+|  10kΩ抵抗(×3)  |  https://bit.ly/3dQxJJH (秋月)|
+|  基板（切れ端でもいい）  |  https://bit.ly/3bHBlep (秋月) |
+|  microUSBケーブル  |   |
 
 # 回路図
 プルダウン型のスイッチをPro microに接続するだけの超簡単な回路図になってます。
