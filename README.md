@@ -19,7 +19,7 @@ Arduino program that you can enter some word by pressing only one button
 
 ### プログラム
 7, 8, 9番ピンにつながっているタクトスイッチそれぞれに対して入力できる単語を決めています。もちろん、その内容を書き換えれば自分の好きなように使えます。　srcディレクトリにarduinoプログラムファイルが入っています
-```
+```cpp:src
 #include "Keyboard.h"
 
 const int buttonPin = 7;           // ボタンピン番号
