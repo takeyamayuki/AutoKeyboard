@@ -1,5 +1,5 @@
 # AutoKeyboard
-この記事は[elchika](https://elchika.com/article/0240f669-080a-46d0-baa3-6f69838c2b27/)で投稿したものを少々改良したものです。  
+この記事は[elchikaで投稿したもの](https://elchika.com/article/0240f669-080a-46d0-baa3-6f69838c2b27/)を少々改良したものです。  
 Arduino program that you can enter some word by pressing only one button
 
 ## 概要
